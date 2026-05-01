@@ -1,5 +1,5 @@
 -- Contact Form Honeypot & Attack Pattern Analysis System
--- Database Schema for MySQL/MariaDB
+-- Database Schema for MySQL
 
 CREATE DATABASE IF NOT EXISTS form_trap_ai CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE form_trap_ai;
